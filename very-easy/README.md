@@ -18,14 +18,15 @@ Esses desafios são ideais para iniciantes e para aquecer antes de problemas mai
 
 * [Desafio 01 - Ajudando a Academia](./desafio-01)
 * [Desafio 02 - Procedimento Recursivo I](./desafio-02)
+* [Desafio 03 - Linguagem Limitada](./desafio-03)
 
 ---
 
 ## 🚀 Progresso
 
-* Concluídos: 2 / 6
+* Concluídos: 3 / 6
 * Em andamento: 1
-* Restantes: 4
+* Restantes: 3
 
 ---
 
