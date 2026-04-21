@@ -37,7 +37,7 @@ Cada desafio possui:
 
 | Nível     | Concluídos | Total |
 | --------- | ---------- | ----- |
-| Very Easy | 1          | 6     |
+| Very Easy | 2          | 6     |
 | Easy      | 0          | 8     |
 | Medium    | 0          | 8     |
 | Hard      | 0          | 6     |

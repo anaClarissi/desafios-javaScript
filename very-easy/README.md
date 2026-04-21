@@ -17,14 +17,15 @@ Esses desafios são ideais para iniciantes e para aquecer antes de problemas mai
 ## 📚 Lista de desafios
 
 * [Desafio 01 - Ajudando a Academia](./desafio-01)
+* [Desafio 02 - Procedimento Recursivo I](./desafio-02)
 
 ---
 
 ## 🚀 Progresso
 
-* Concluídos: 1 / 6
+* Concluídos: 2 / 6
 * Em andamento: 1
-* Restantes: 5
+* Restantes: 4
 
 ---
 
