@@ -17,12 +17,13 @@ Esses desafios servem como uma transição entre o nível básico e problemas ma
 ## 📚 Lista de desafios
 
 * [Desafio 07 - Organizando Resultados](./desafio-07)
+* [Desafio 08 - Biblioteca Interplanetária](./desafio-08)
 
 ---
 
 ## 🚀 Progresso
 
-* Concluídos: 1 / 6
+* Concluídos: 2 / 6
 * Em andamento: 1
 * Restantes: 8
 
