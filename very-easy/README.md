@@ -24,9 +24,9 @@ Esses desafios são ideais para iniciantes e para aquecer antes de problemas mai
 
 ## 🚀 Progresso
 
-* Concluídos: 3 / 6
-* Em andamento: 1
-* Restantes: 3
+* Concluídos: 6 / 6
+* Em andamento: 0
+* Restantes: 0
 
 ---
 
