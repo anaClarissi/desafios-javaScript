@@ -18,6 +18,7 @@ Esses desafios servem como uma transição entre o nível básico e problemas ma
 
 * [Desafio 07 - Organizando Resultados](./desafio-07)
 * [Desafio 08 - Biblioteca Interplanetária](./desafio-08)
+* [Desafio 09 - Instruções de Emergência](./desafio-09)
 
 ---
 
