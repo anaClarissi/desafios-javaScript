@@ -19,12 +19,13 @@ Esses desafios servem como uma transição entre o nível básico e problemas ma
 * [Desafio 07 - Organizando Resultados](./desafio-07)
 * [Desafio 08 - Biblioteca Interplanetária](./desafio-08)
 * [Desafio 09 - Instruções de Emergência](./desafio-09)
+* [Desafio 10 - Procedimento Recursivo II](./desafio-10)
 
 ---
 
 ## 🚀 Progresso
 
-* Concluídos: 2 / 6
+* Concluídos: 4 / 6
 * Em andamento: 1
 * Restantes: 8
 
