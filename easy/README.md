@@ -22,14 +22,15 @@ Esses desafios servem como uma transição entre o nível básico e problemas ma
 * [Desafio 10 - Procedimento Recursivo II](./desafio-10)
 * [Desafio 11 - Intervalo de Coordenadas](./desafio-11)
 * [Desafio 12 - Espaçoporto Comercial](./desafio-12)
+* [Desafio 13 - Código de Identificação de Nave](./desafio-13)
 
 ---
 
 ## 🚀 Progresso
 
-* Concluídos: 6 / 8
+* Concluídos: 7 / 8
 * Em andamento: 1
-* Restantes: 2
+* Restantes: 1
 
 ---
 
