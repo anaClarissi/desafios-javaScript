@@ -21,14 +21,15 @@ Esses desafios servem como uma transição entre o nível básico e problemas ma
 * [Desafio 09 - Instruções de Emergência](./desafio-09)
 * [Desafio 10 - Procedimento Recursivo II](./desafio-10)
 * [Desafio 11 - Intervalo de Coordenadas](./desafio-11)
+* [Desafio 12 - Espaçoporto Comercial](./desafio-12)
 
 ---
 
 ## 🚀 Progresso
 
-* Concluídos: 5 / 6
+* Concluídos: 6 / 8
 * Em andamento: 1
-* Restantes: 8
+* Restantes: 2
 
 ---
 
