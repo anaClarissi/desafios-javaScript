@@ -23,14 +23,15 @@ Esses desafios servem como uma transição entre o nível básico e problemas ma
 * [Desafio 11 - Intervalo de Coordenadas](./desafio-11)
 * [Desafio 12 - Espaçoporto Comercial](./desafio-12)
 * [Desafio 13 - Código de Identificação de Nave](./desafio-13)
+* [Desafio 14 - Licença de Voo](./desafio-14)
 
 ---
 
 ## 🚀 Progresso
 
-* Concluídos: 7 / 8
-* Em andamento: 1
-* Restantes: 1
+* Concluídos: 8 / 8
+* Em andamento: 0
+* Restantes: 0
 
 ---
 
