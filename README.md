@@ -39,7 +39,7 @@ Cada desafio possui:
 | --------- | ---------- | ----- |
 | Very Easy | 6          | 6     |
 | Easy      | 8          | 8     |
-| Medium    | 0          | 8     |
+| Medium    | 1          | 8     |
 | Hard      | 0          | 6     |
 | Very Hard | 0          | 2     |
 
